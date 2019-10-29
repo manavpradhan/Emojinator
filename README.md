@@ -34,5 +34,5 @@ this code will train the model and create the weight file emojinator.h5.
 ### Emojinator:
  ```
  run:  emojinator.py
-this code will predict your hand gestures according to the dataset provided
+this code will predict your hand gestures according to the dataset provided.
   ```   
