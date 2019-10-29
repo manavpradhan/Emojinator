@@ -1,5 +1,5 @@
 # Emojinator
-a deep learning model that recognizes and classify different hand emojis
+a deep learning model that recognizes and classify different hand emojis.
 
 ### DEMO
 click to watch!
